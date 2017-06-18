@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<dataset>
+
+<!-- stocks -->
+
+<stock id="1" name="Iphone 6" short_description="phone" long_description="iphone model 6" quantity="10" price="999"/>
+
+<stock id="2" name="S8" short_description="phone" long_description="samsumg model 8" quantity="5" price="789"/>
+
+<!-- products -->
+
+<product id="1" serial_no="1" id_stock="1" status="IN_STOCK"/>
+<product id="2" serial_no="2" id_stock="1" status="IN_STOCK"/>
+<product id="3" serial_no="3" id_stock="1" status="IN_STOCK"/>
+<product id="4" serial_no="4" id_stock="1" status="IN_STOCK"/>
+<product id="5" serial_no="5" id_stock="1" status="RESERVED"/>
+<product id="6" serial_no="6" id_stock="1" status="RESERVED"/>
+<product id="7" serial_no="7" id_stock="1" status="IN_STOCK"/>
+<product id="8" serial_no="8" id_stock="1" status="IN_STOCK"/>
+<product id="9" serial_no="9" id_stock="1" status="IN_STOCK"/>
+<product id="10" serial_no="10" id_stock="1" status="IN_STOCK"/>
+
+
+<product id="11" serial_no="a1" id_stock="2" status="IN_STOCK"/>
+<product id="12" serial_no="a2" id_stock="2" status="IN_STOCK"/>
+<product id="13" serial_no="a3" id_stock="2" status="IN_STOCK"/>
+<product id="14" serial_no="a4" id_stock="2" status="IN_STOCK"/>
+<product id="15" serial_no="a5" id_stock="2" status="IN_STOCK"/>
+
+</dataset>
